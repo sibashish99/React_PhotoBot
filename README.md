@@ -1,4 +1,4 @@
-# PhotoShop
+# PhotoBot
 
 A single page application having basic editing functions
 
