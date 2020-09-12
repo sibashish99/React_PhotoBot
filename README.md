@@ -2,6 +2,12 @@
 
 A single page application having basic editing functions
 
+* watch demo 
+
+```
+https://photobot-2020.web.app/
+```
+
 
 ## Getting Started
 
@@ -9,7 +15,7 @@ A single page application having basic editing functions
 * Clone the repository
 
 ```
-https://github.com/sibashish99/MovieDB.git
+https://github.com/sibashish99/React_PhotoBot.git
 ```
 ### Installing
 
