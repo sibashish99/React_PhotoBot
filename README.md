@@ -13,7 +13,7 @@ https://github.com/sibashish99/MovieDB.git
 ```
 ### Installing
 
-* run npm install
+* Install all dependencies
 
 ```
 npm install
